@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Suraj Shivakumar, current Graduate student  & Research Assistant at the University of South Florida, Tampa.
+  Hi, I'm Suraj Shivakumar, current Graduate student  & Research Assistant at the <a href="https://www.usf.edu/" title="University of South Florida"> , Tampa.
   <br>
   <br>
   🔬 I'm currently pusuing a Master's in Information Systems & Artificial Intelligence @USF. 
