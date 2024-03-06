@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Suraj Shivakumar, current Graduate student  & Research Assistant at the <a href="https://www.usf.edu/" title="University of South Florida"> , Tampa.
+  Hi, I'm Suraj Shivakumar, current Graduate student  & Research Assistant at the <a href="https://www.usf.edu/" title="University of South Florida">University of South Florida</a>, Tampa.
   <br>
   <br>
   🔬 I'm currently pusuing a Master's in Information Systems & Artificial Intelligence @USF. 
@@ -25,5 +25,8 @@
   📚 Also learning how to build full stack applications with django, react!
   <br>
   📫 How to reach me: <a href="mailto: surajshivakumar53@gmail.com">surajshivakumar53@gmail.com</a>
+  <br>
+  <br>
+  Check out my <a href="https://surajshivkumar.github.io/porfolio/">personal website</a> for more details :)
 </p>
 
