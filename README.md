@@ -12,7 +12,7 @@
   Hi, I'm Suraj Shivakumar, current Graduate student  & Research Assistant at the <a href="https://www.usf.edu/" title="University of South Florida">University of South Florida</a>, Tampa.
   <br>
   <br>
-  🔬 I'm currently pusuing a Master's in Information Systems & Artificial Intelligence @USF. 
+  🔬 I'm currently pursuing a Master's in Information Systems & Artificial Intelligence @USF. 
   <br>
   🚀 I have over 2 years of work experience in the data science and analytics space.
   <br>
