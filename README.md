@@ -16,8 +16,6 @@
   <br>
   🚀 I have over 2 years of work experience in the data science and analytics space.
   <br>
-  📚 I’m currently researching topics in deep learning and game theory at the intersection of cyber security.
-  <br>
    <br>
   📚 I’m super passionate about creating products and features that use data science and machine learning!
   <br>
